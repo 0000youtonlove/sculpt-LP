@@ -6,7 +6,7 @@
 
 ## 🌐 デモURL
 
-**https://0000youtonlove.github.io/sculpt-lp/**
+**https://0000youtonlove.github.io/sculpt-LP/**
 
 ## 📁 ファイル構成
 
